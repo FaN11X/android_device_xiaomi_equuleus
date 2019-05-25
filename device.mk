@@ -49,3 +49,22 @@ PRODUCT_PACKAGES += \
     NQNfcNci \
     SecureElement \
     Tag
+    
+# FANOS ROM
+PRODUCT_PACKAGES += \
+    FDroid \
+    FDroidPrivilegedExtension \
+    DroidGuard \
+    GmsCore \
+    GsfProxy \
+    nlpBackendDejavu \
+    nlpBackendIchnaea \
+    nlpBackendNominatim \
+    nlpBackendRadiocell \
+    com.google.android.maps.jar \
+    com.google.android.maps.xml \
+    FakeStore \
+    AuroraStore \
+    webview \
+    Bromite 
+    
