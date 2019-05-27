@@ -58,9 +58,9 @@ PRODUCT_PACKAGES += \
     GmsCore \
     GsfProxy \
     nlpBackendDejavu \
-    nlpBackendIchnaea \
-    nlpBackendNominatim \
+    nlpBackendIchnaea \    
     nlpBackendRadiocell \
+    nlpBackendNominatim \
     com.google.android.maps.jar \
     com.google.android.maps.xml \
     FakeStore \
