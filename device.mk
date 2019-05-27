@@ -58,7 +58,7 @@ PRODUCT_PACKAGES += \
     GmsCore \
     GsfProxy \
     nlpBackendDejavu \
-    nlpBackendIchnaea \    
+    nlpBackendIchnaea \
     nlpBackendRadiocell \
     nlpBackendNominatim \
     com.google.android.maps.jar \
@@ -66,5 +66,5 @@ PRODUCT_PACKAGES += \
     FakeStore \
     AuroraStore \
     webview \
-    Bromite 
+    Bromite
     
