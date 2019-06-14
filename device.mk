@@ -40,7 +40,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     lineage.livedisplay@2.0-service.xiaomi_sdm845
 
-# NFC
+#NFC
 PRODUCT_PACKAGES += \
     com.android.nfc_extras \
     com.nxp.nfc.nq \
@@ -52,19 +52,20 @@ PRODUCT_PACKAGES += \
     
 # FANOS ROM
 PRODUCT_PACKAGES += \
-    FDroid \
-    FDroidPrivilegedExtension \
-    DroidGuard \
-    GmsCore \
-    GsfProxy \
-    nlpBackendDejavu \
-    nlpBackendIchnaea \
-    nlpBackendRadiocell \
-    nlpBackendNominatim \
-    com.google.android.maps.jar \
-    com.google.android.maps.xml \
-    FakeStore \
-    AuroraStore \
-    webview \
-    Bromite
-    
+	FDroid \
+	FDroidPrivilegedExtension \
+	FDroid \
+	Bromite \
+	webview \
+	OsmAnd \
+	OsmAnd_ContourLines \
+	RemoteDroidGuard \
+	FakeStore \
+	AuroraStore \
+	GmsCore \
+	GsfProxy \
+	nlpBackendDejavu \
+	nlpBackendIchnaea \
+	nlpBackendRadiocell \
+	nlpBackendNominatim \
+	com.google.android.maps.jar
