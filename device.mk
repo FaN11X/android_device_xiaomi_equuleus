@@ -54,18 +54,17 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
 	FDroid \
 	FDroidPrivilegedExtension \
-	FDroid \
 	Bromite \
 	webview \
 	OsmAnd \
 	OsmAnd_ContourLines \
-	RemoteDroidGuard \
-	FakeStore \
-	AuroraStore \
-	GmsCore \
-	GsfProxy \
-	nlpBackendDejavu \
-	nlpBackendIchnaea \
-	nlpBackendRadiocell \
-	nlpBackendNominatim \
-	com.google.android.maps.jar
+	RemoteDroidGuard
+#	com.google.android.maps.jar
+# 	FakeStore \
+# 	AuroraStore \
+# 	GmsCore \
+# 	GsfProxy \
+# 	nlpBackendDejavu \
+# 	nlpBackendIchnaea \
+# 	nlpBackendRadiocell \
+# 	nlpBackendNominatim \
